@@ -1,4 +1,4 @@
-namespace: linkerd
+namespace: linkerd-viz
 bases:
   - ../base/flagger/
 patchesStrategicMerge:
